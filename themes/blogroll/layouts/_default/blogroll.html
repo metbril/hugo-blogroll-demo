@@ -1,0 +1,20 @@
+<ul>
+  {{ $blogroll := $.Site.Data.blogroll.body }}
+  {{ $groups := $blogroll.outline }}
+  {{ range $groups }}
+  <li>
+    {{ ._text }}
+    <ul>
+      {{ $items := .outline }}
+      {{ range $items }}
+      {{ $item := . }}
+      <li>
+        <a href="{{ index $item "_htmlUrl" }}">
+          {{ index $item "_text" }}
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </li>
+  {{ end }}
+</ul>

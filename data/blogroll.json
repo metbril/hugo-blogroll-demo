@@ -1,0 +1,57 @@
+{
+	"head": {
+		"title": "Robert subscriptions in feedly Cloud"
+	},
+	"body": {
+		"outline": [
+			{
+				"outline": [
+					{
+						"_type": "rss",
+						"_text": "Henrique Dias",
+						"_title": "Henrique Dias",
+						"_xmlUrl": "https://hacdias.com/all/feed.xml",
+						"_htmlUrl": "https://hacdias.com/all/"
+					},
+					{
+						"_type": "rss",
+						"_text": "Horst Gutmann: zerokspot.com",
+						"_title": "Horst Gutmann: zerokspot.com",
+						"_xmlUrl": "https://zerokspot.com/index.xml",
+						"_htmlUrl": "https://zerokspot.com/"
+					}
+				],
+				"_text": "People",
+				"_title": "People"
+			},
+			{
+				"outline": [
+					{
+						"_type": "rss",
+						"_text": "Restore Privacy",
+						"_title": "Restore Privacy",
+						"_xmlUrl": "https://restoreprivacy.com/feed/",
+						"_htmlUrl": "https://restoreprivacy.com"
+					},
+					{
+						"_type": "rss",
+						"_text": "Bits of Freedom",
+						"_title": "Bits of Freedom",
+						"_xmlUrl": "https://www.bitsoffreedom.nl/feed/",
+						"_htmlUrl": "https://www.bitsoffreedom.nl"
+					},
+					{
+						"_type": "rss",
+						"_text": "Cryptomator Blog",
+						"_title": "Cryptomator Blog",
+						"_xmlUrl": "https://cryptomator.org/feed.xml",
+						"_htmlUrl": "https://cryptomator.org/"
+					}
+				],
+				"_text": "Privacy",
+				"_title": "Privacy"
+			}
+		]
+	},
+	"_version": "1.0"
+}
